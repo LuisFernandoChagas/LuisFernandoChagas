@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m talent management director at Level 5
+- 🌱 I’m currently learning React and Node
+- 📫 How to reach me: Email (lflchagas@gmail.com)
+- 😄 Pronouns: He
+
 <!--
 **LuisFernandoChagas/LuisFernandoChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
