@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 Propector <a href="https://level5jr.com.br/" target="_blank">Level 5</a>
+- 🔭 Propector na <a href="https://level5jr.com.br/" target="_blank">Level 5</a>
 - 🌱 Estou aprendendo Banco de Dados e Desenvolvimento web
 - 💬 Desenvolvi sistemas utilizando Wordpress, C, Java, HTML/CSS
 - 📫 Email: lflchagas@gmail.com
@@ -18,6 +18,13 @@
 - Estudo Sistemas de Informação na UFG - 4° período
 
 - Quando entrei na faculdade não sabia bem o que queria, mas sempre gostei de resolver problemas e me encontrei na programação
+
+---
+
+<h3 align="center">Principais projetos💻</h3>
+
+- <a href="https://github.com/LuisFernandoChagas/Indice-invertido" target="_blank">Índice Invertido</a>
+- <a href="https://github.com/LuisFernandoChagas/SGU" target="_blank">Sistema de Gerenciamento de Universidades</a>
 
 <!--
 **LuisFernandoChagas/LuisFernandoChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
