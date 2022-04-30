@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Luis Chagas</h1>
+<h1 align="center">Olá 👋, Eu sou o Luis Chagas</h1>
 
 <h3 align="center">I am a student of Informations's System📚</h3>
 
