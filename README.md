@@ -16,7 +16,7 @@
 
 - Estudo Sistemas de Informação na UFG - 4° período
 
-- Quando entrei na faculdade não sabia bem o que queria, mas sempre gostei de resolver problemas e me encontrei na programação
+- Quando entrei na faculdade não sabia bem o que queria, mas sempre gostei de resolver problemas e me encontrei na programação. Com isso, fui fazendo diversos cursos gratuitos que via pela internet, como os da Rocketseat, e agora sinto que estou pronto para colocar meu conhecimento em prática, e evoluir no mercado de trabalho
 
 ---
 
