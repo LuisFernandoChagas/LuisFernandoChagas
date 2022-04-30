@@ -4,7 +4,6 @@
 
 ---
 
-- 🔭 Propector na <a href="https://level5jr.com.br/" target="_blank">Level 5</a>
 - 🌱 Estou aprendendo Banco de Dados e Desenvolvimento web
 - 💬 Desenvolvi sistemas utilizando Wordpress, C, Java, HTML/CSS
 - 📫 Email: lflchagas@gmail.com
@@ -27,6 +26,9 @@
 - <a href="https://github.com/LuisFernandoChagas/SGU" target="_blank">Sistema de Gerenciamento de Universidades</a>
 
 <!--
+
+- 🔭 Propector na <a href="https://level5jr.com.br/" target="_blank">Level 5</a>
+
 **LuisFernandoChagas/LuisFernandoChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
