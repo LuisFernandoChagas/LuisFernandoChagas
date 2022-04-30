@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Luis Chagas</h1>
 
-<h3 align="center">I am a student of Informations's System📚</h3>
+<h3 align="center">Estudante de Sistemas de Informação - UFG📚</h3>
 
 ---
 
 - 🌱 Estou aprendendo Banco de Dados e Desenvolvimento web
-- 💬 Desenvolvi sistemas utilizando Wordpress, C, Java, HTML/CSS
+- 💬 Conhecimentos: Wordpress, Java, HTML/CSS/Javascript, MySQL
 - 📫 Email: lflchagas@gmail.com
 
 ---
