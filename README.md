@@ -12,11 +12,7 @@
 
 <h3 align="center">Um pouco sobre mim📝</h3>
 
-- Tenho 19 anos
-
-- Estudo Sistemas de Informação na UFG - 4° período
-
-- Quando entrei na faculdade não sabia bem o que queria, mas sempre gostei de resolver problemas e me encontrei na programação. Com isso, fui fazendo diversos cursos gratuitos que via pela internet, como os da Rocketseat, e agora sinto que estou pronto para colocar meu conhecimento em prática, e evoluir no mercado de trabalho
+- Quando entrei na faculdade, com 17 anos, não sabia bem o que queria, era muito jovem, mas sempre gostei de resolver problemas e me encontrei na programação, com a matéria de lógica de programação. Com isso, fui fazendo diversos cursos gratuitos que via pela internet, como os da Rocketseat, e agora, com 19 anos, sinto que estou pronto para colocar meu conhecimento em prática, e evoluir no mercado de trabalho.
 
 ---
 
