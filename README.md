@@ -20,7 +20,7 @@ Com a pandemia, fiquei sem aulas, porém nesse tempo não fiquei parado, e parti
 
 Próximo passo, foi entrar em uma Empresa Júnior da faculdade, que é uma empresa, sem fins lucrativos, formada por estudantes para que pudéssemos colocar conhecimentos em práticas sem medo de errar. E foi o momento em que percebi que para ser programador, não é preciso só saber programar, e por isso, passei por diversar áreas da empresa, em que, além de desenvolver sites, me candidatei ao cargo de Diretor, em que fui eleito com mais de 70% dos votos, e usei dessa oportunidade para me desenvolver pessoalmente. E com isso, aprendi a falar em público, guiar reuniões, expressar e administrar ideias, a liderar, e trabalhar em equipe.
 
-E agora, estou na equipe de comercial, atuando como consultor de vendas, e pretendo conseguir um estágio na área de desenvolvimento de sistemas. E para isso estou, atualmente, estudando Banco de Dados, e pretendo avançar em Java-Spring, MySQL, e Angular.
+E agora, estou na equipe de comercial, atuando como consultor de vendas, e pretendo conseguir um estágio na área de desenvolvimento de sistemas. E para isso estou, atualmente, estudando Banco de Dados utilizando MySQL, e pretendo avançar em Java-Spring.
 
 ---
 
@@ -39,10 +39,11 @@ E agora, estou na equipe de comercial, atuando como consultor de vendas, e prete
 - Desenvolver, Automatizar e Gerenciar processos, utilizando ERP. Ex: Processo Seletivo, Processo de Desligamento, Onboarding de novos membros
 - Formar novas lideranças
 
-## Prospector - Level 5 (Empresa Júnior)
+## Pause para desenvolvimento profissional
 01/2022 - Atualmente
-### Responsabilidades:
-- Atender clientes, buscando sempre entender a causa da dor do lead e como a minha empresa podia ajudar de fato
+### Objetivos:
+- Estudos de framework Java-spring
+- Estudos de Banco de dados: MySQL
 
 <!--
 
