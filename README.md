@@ -39,7 +39,7 @@ E agora, estou na equipe de comercial, atuando como consultor de vendas, e prete
 - Desenvolver, Automatizar e Gerenciar processos, utilizando ERP. Ex: Processo Seletivo, Processo de Desligamento, Onboarding de novos membros
 - Formar novas lideranças
 
-## Pause para desenvolvimento profissional
+## Pausa - Desenvolvimento Profissional
 01/2022 - Atualmente
 ### Objetivos:
 - Estudos de framework Java-spring
