@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Sistemas de Informação - UFG📚</h3>
 
 - 🌱 Estou aprendendo Banco de Dados e Desenvolvimento de Web
-- 💬 Conhecimentos: Wordpress, HTML/CSS, Java, Javascript, MySQL, e Git
+- 💬 Conhecimentos: HTML/CSS, Java, Javascript, MySQL, e Git
 - 📫 Email: lflchagas@gmail.com
 
 ---
