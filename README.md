@@ -10,7 +10,13 @@
 
 <h3 align="center">Sobre mim📝</h3>
 
-Estou cursando o quinto semestre de Sistemas de Informação, após ter estudado Lógica de Programação, HTML/CSS, Algoritmo e estrutura de dados utilizando linguagem C, Programação orientada a objetos utilizando java, e banco de dados utilizando MySQL.
+- Graduando do curso de Sistemas de Informação da Universidade Federal de Goiás - UFG
+
+- Interesses: Desenvolvimento Back-End, e Banco de Dados
+
+- Atualmente faço parte da equipe de Comercial da Level 5.
+
+- Conhecimentos: Java - Spring, HTML/CSS, Javascript, MySQL e Git.
 
 ---
 
