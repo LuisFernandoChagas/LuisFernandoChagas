@@ -10,13 +10,13 @@
 
 <h3 align="center">Sobre mim📝</h3>
 
-- Graduando do curso de Sistemas de Informação da Universidade Federal de Goiás - UFG
+- Graduando do curso de Sistemas de Informação (5° período) da Universidade Federal de Goiás - UFG
 
-- Interesses: Desenvolvimento Back-End, e Banco de Dados
+- Interesses: Desenvolvimento Web, Desenvolvimento Back-End, e Banco de Dados
 
 - Atualmente faço parte da equipe de Comercial da Level 5.
 
-- Conhecimentos: Java - Spring, HTML/CSS, Javascript, MySQL e Git.
+- Conhecimentos: Java - Spring, SQL, HTML/CSS, Javascript, Git, Linguagem C, e Wordpress.
 
 <!--
 
