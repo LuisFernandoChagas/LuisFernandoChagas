@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Sistemas de Informação - UFG📚</h3>
 
 - 🌱 Estou aprendendo Banco de Dados e Desenvolvimento de Web
-- 💬 Conhecimentos: HTML/CSS, Java, Javascript, MySQL, e Git
+- 💬 Conhecimentos: Java, SQL, HTML/CSS, Javascript, Git, e Linguagem C
 - 📫 Email: lflchagas@gmail.com
 
 ---
@@ -13,10 +13,6 @@
 - Graduando do curso de Sistemas de Informação (5° período) da Universidade Federal de Goiás - UFG
 
 - Interesses: Desenvolvimento Web, Desenvolvimento Back-End, e Banco de Dados
-
-- Atualmente faço parte da equipe de Comercial da Level 5.
-
-- Conhecimentos: Java - Spring, SQL, HTML/CSS, Javascript, Git, Linguagem C, e Wordpress.
 
 <!--
 
